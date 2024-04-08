@@ -1,2 +1,2 @@
-# eyes
-eyes exercise from MITxPro Course
+# Eyes
+Eyes exercise from MITxPro Course
