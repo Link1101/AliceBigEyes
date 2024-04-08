@@ -31,3 +31,14 @@ body {
   transform: translate(-50%, -50%);
   border-radius: 50%;
 }
+h1 {
+    color: white; /* Set text color to white */
+    position: absolute;
+    top: 10%; /* Adjust the value to position your headline */
+    left: 50%;
+    transform: translateX(-50%); /* Center the element horizontally */
+    text-align: center; /* Ensure the text inside the h1 is centered */
+    width: 100%; /* Set the width to full container width */
+    font-size: 2em; /* Optional: adjust size as needed */
+    text-shadow: 2px 2px 4px #000000; /* Text shadow for better readability */
+}
